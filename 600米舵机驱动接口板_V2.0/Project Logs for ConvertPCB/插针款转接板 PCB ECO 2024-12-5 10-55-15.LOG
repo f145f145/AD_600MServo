@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=F1 Old DesignItemId=JFC2410-1500TS New DesignItemId=JFC2410-2100TS
+Change Component Comment : Designator=F1 Old Comment=JFC2410-1500TS New Comment=JFC2410-2100TS
+Change component parameters: Designator = "F1" ("F1"); Footprint = "F2410"; UniqueID = "\ZDXAKEFM" ("\ZDXAKEFM")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Breaking Capacity"; Value = "50A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230515/1D43BDD82FA89335B41B370141760CD9.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "JFC2410-2100TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "10A 125V 贴片式保险丝 慢断"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JDTfuse(集电通)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "JFC2410-2100TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+125℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C136391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "JFC2410-2100TS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "贴片式保险丝"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating  (AC)"; Value = "125V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "125V"; VariantName = "[No Variations]"

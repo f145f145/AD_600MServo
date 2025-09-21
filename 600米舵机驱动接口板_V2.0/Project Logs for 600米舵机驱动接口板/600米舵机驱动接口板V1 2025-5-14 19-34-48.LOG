@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=0V Pin=C1-1
+Removed Pin From Net: NetName=48V Pin=C1-2
+Removed Pin From Net: NetName=0V Pin=C2-1
+Removed Pin From Net: NetName=24V Pin=C2-2
+Removed Pin From Net: NetName=CANH Pin=H4-1
+Removed Pin From Net: NetName=CANL Pin=H4-2
+Removed Pin From Net: NetName=24V Pin=R1-2
+Removed Pin From Net: NetName=0V Pin=R2-1
+Removed Pin From Net: NetName=24V Pin=U1-2
+Removed Pin From Net: NetName=48V Pin=U1-3
+Removed Pin From Net: NetName=24V Pin=U1-4
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=C1
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=C2
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=R1
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=R2
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=U1
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Added Component: Designator=D3(SMAF_L3.5-W2.6-LS4.7-FD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Average Rectified Current (Io)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20201231/C908669_14F884D2643FB3EE455C9EAA3A20B275.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS34F_C908669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Configuration"; Value = "独立式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "550mV@3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "电压:40V 电流:3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GOODWORK(固得沃克)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SS34F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "200uA@40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMAF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C908669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SS34F_C908669"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOT-23(SOT-23-3))
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "19V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20140717/1457707154667.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PSM712-LF-T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "PSM712-LF-T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PROTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PSM712-LF-T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C32677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PSM712-LF-T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown"; Value = "13.3V"; VariantName = "[No Variations]"
+Added Component: Designator=F2(F0805)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230512/7A46D6CD923C15CBB98FD769C08EDD80.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "60V 10mA 0805自恢复"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BHFUSE(佰宏)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Time to Trip"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage (Max)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Initial (Ri) (Min)"; Value = "15Ω"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Post Trip (R1) (Max)"; Value = "100Ω"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5222212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "50mA"; VariantName = "[No Variations]"
+Added Component: Designator=F3(F0805)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "30A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230512/7A46D6CD923C15CBB98FD769C08EDD80.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "60V 10mA 0805自恢复"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BHFUSE(佰宏)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Time to Trip"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage (Max)"; Value = "60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Initial (Ri) (Min)"; Value = "15Ω"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance - Post Trip (R1) (Max)"; Value = "100Ω"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5222212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "BSMD0805-001-60V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "50mA"; VariantName = "[No Variations]"
+Added Component: Designator=H?(HDR1X2)
+Added Component: Designator=R?(2010_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18529.html"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SMD-6_L8.8-W6.4-P2.54-LS9.6-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20241011/CA0590B664AED94D4C3AAC21686DAD45.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "GAQV211G4EH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage(Vrms)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "GAQV211G4EH 1 Form A(SPST-NO) 负载电压:40V 连续负载电流:4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current"; Value = "4.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUPSiC(国晶微半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "GAQV211G4EH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RDS(on)"; Value = "33mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C7435166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "GAQV211G4EH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-off time"; Value = "50us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-on time"; Value = "1.5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward(Vf)"; Value = "1.2V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V Pin=D3-2
+Added Pin To Net: NetName=CANL Pin=D4-1
+Added Pin To Net: NetName=CANH Pin=D4-2
+Added Pin To Net: NetName=0V Pin=D4-3
+Added Pin To Net: NetName=CANL Pin=F2-1
+Added Pin To Net: NetName=CANH Pin=F3-1
+Added Pin To Net: NetName=0V Pin=H4-3
+Added Pin To Net: NetName=0V Pin=H4-4
+Added Pin To Net: NetName=24V Pin=H?-1
+Added Pin To Net: NetName=24V Pin=R?-1
+Added Pin To Net: NetName=0V Pin=U?-5
+Change Net Name : Old Net Name=48V New Net Name=DC+
+Added Pin To Net: NetName=CAN_H Pin=F3-2
+Added Pin To Net: NetName=CAN_H Pin=H4-2
+Added Net: Name=CAN_H
+Added Pin To Net: NetName=CAN_L Pin=F2-2
+Added Pin To Net: NetName=CAN_L Pin=H4-1
+Added Net: Name=CAN_L
+Added Pin To Net: NetName=DO2 Pin=J6-3
+Added Pin To Net: NetName=DO2 Pin=U?-2
+Added Net: Name=DO2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=H?-2
+Added Pin To Net: NetName=NetD3_1 Pin=U?-4
+Added Pin To Net: NetName=NetD3_1 Pin=U?-6
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-1
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component D4 PSM712-LF-T7
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component D5 UBT26A05L03
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component F2 BSMD0805-001-60V
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component F3 BSMD0805-001-60V
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H? 1×2P-2.0插针
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component R? 3.9kΩ  1%
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component U? GAQV211G4EH
+Added Rule: Name=Schematic Supply Nets_9

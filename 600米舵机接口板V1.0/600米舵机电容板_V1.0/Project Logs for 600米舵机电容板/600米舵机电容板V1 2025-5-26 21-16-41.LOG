@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=0V Pin=C119-1
+Removed Pin From Net: NetName=DC+ Pin=C119-2
+Removed Pin From Net: NetName=0V Pin=C120-1
+Removed Pin From Net: NetName=DC+ Pin=C120-2
+Removed Member From Class: ClassName=600米舵机电容板V1.0 Member=C119
+Removed Member From Class: ClassName=600米舵机电容板V1.0 Member=C120

@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=H1-1
+Added Component: Designator=D2(SMC_L7.1-W6.2-LS8.1-FD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Breakdown Voltage"; Value = "53.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181127/C310089_DF11A7ED4CCF9CC3586EB1D10F86E9D6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SMCJ48A/TR13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SMCJ48A/TR13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Brightking(君耀电子)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SMCJ48A/TR13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Clamping Voltage"; Value = "77.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current (Ipp)"; Value = "19.4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation (Ppp)"; Value = "1.5kW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-Off Voltage (Vrwm)"; Value = "48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMC(DO-214AB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C310056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SMCJ48A_C310056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=F1(F2410)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Breaking Capacity"; Value = "50A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230515/1D43BDD82FA89335B41B370141760CD9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "JFC2410-1500TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "250V贴片式保险丝"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JDTfuse(集电通)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "JFC2410-1500TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C136387"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "JFC2410-1500TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "贴片式保险丝"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating  (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V Pin=D2-1
+Added Pin To Net: NetName=48V Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=H1-1
+Added Net: Name=NetF1_1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 SMCJ48A/TR13
+Added Member To Class: ClassName=Sheet1 Member=Component F1 JFC2410-1500TS

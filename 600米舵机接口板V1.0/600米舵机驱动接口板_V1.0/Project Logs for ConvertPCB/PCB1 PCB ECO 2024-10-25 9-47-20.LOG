@@ -1,0 +1,6 @@
+Added Component: Designator=J9(ISMC_Power)
+Added Pin To Net: NetName=DC+ Pin=J9-5
+Added Pin To Net: NetName=DC- Pin=J9-6
+Change Net Name : Old Net Name=NetH3_1 New Net Name=CANH
+Change Net Name : Old Net Name=NetH3_2 New Net Name=CANL
+Added Member To Class: ClassName=Sheet1 Member=Component J9 Pin HDR1X6

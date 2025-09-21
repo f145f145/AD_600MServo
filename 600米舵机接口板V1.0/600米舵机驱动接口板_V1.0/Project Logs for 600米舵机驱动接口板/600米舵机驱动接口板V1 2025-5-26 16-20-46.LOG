@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=U Pin=H2-1
+Removed Pin From Net: NetName=V Pin=H2-2
+Removed Pin From Net: NetName=W Pin=H2-3
+Removed Pin From Net: NetName=DI_RET Pin=H3-1
+Removed Pin From Net: NetName=0V Pin=H3-2
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=H2
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=H3
+Added Component: Designator=H?(CONN-TH_MR30-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "艾迈斯"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航空插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=U Pin=H?-1
+Added Pin To Net: NetName=V Pin=H?-2
+Added Pin To Net: NetName=W Pin=H?-3
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H? 1×2P-2.0插针

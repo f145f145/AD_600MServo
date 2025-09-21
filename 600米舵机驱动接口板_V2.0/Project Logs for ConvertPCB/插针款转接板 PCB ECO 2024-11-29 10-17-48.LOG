@@ -1,0 +1,72 @@
+Change Component Comment : Designator=U?? Old Comment=TL783CKTTR New Comment=TL783
+Change Component Designator: OldDesignator=U?? NewDesignator=U1
+Added Component: Designator=C?(0805_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_29074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C28323"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.2-RD)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20240710/8E54791437B168F7C5315E7E758CE84D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS210_C14996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "850mV@2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "电压:100V 电流:2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MDD(辰达半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SS210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rectified Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "500uA@100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C14996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SS210"; VariantName = "[No Variations]"
+Added Component: Designator=H5(CONN-SMD_8P-P1.50_5040500891)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200402/C505030_912DE918B6335CDBA9338E0364A5433D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "5040500891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "5040500891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "5040500891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C587992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "5040500891"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V Pin=C?-1
+Added Pin To Net: NetName=48V Pin=D1-2
+Added Pin To Net: NetName=0V Pin=H5-9
+Added Pin To Net: NetName=0V Pin=H5-10
+Change Net Name : Old Net Name=24V New Net Name=DI0
+Change Net Name : Old Net Name=NetH3_2 New Net Name=DI_RET
+Added Pin To Net: NetName=Encoder_5V Pin=C?-2
+Added Pin To Net: NetName=Encoder_5V Pin=H5-1
+Added Pin To Net: NetName=Encoder_5V Pin=J7-1
+Added Net: Name=Encoder_5V
+Added Pin To Net: NetName=Encoder_CLK+ Pin=H5-3
+Added Pin To Net: NetName=Encoder_CLK+ Pin=J7-13
+Added Net: Name=Encoder_CLK+
+Added Pin To Net: NetName=Encoder_CLK- Pin=H5-4
+Added Pin To Net: NetName=Encoder_CLK- Pin=J7-15
+Added Net: Name=Encoder_CLK-
+Added Pin To Net: NetName=Encoder_D+ Pin=H5-5
+Added Pin To Net: NetName=Encoder_D+ Pin=J7-12
+Added Net: Name=Encoder_D+
+Added Pin To Net: NetName=Encoder_D- Pin=H5-6
+Added Pin To Net: NetName=Encoder_D- Pin=J7-14
+Added Net: Name=Encoder_D-
+Added Pin To Net: NetName=Encoder_GND Pin=H5-2
+Added Pin To Net: NetName=Encoder_GND Pin=J7-2
+Added Net: Name=Encoder_GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-3
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SS210
+Added Member To Class: ClassName=Sheet1 Member=Component H5 5040500891
+Added Rule: Name=Schematic Supply Nets

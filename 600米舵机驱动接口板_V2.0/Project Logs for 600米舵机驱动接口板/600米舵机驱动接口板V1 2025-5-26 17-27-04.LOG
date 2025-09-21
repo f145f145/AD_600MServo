@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=0V Pin=H1-2
+Removed Pin From Net: NetName=24V Pin=H?-1
+Removed Pin From Net: NetName=U Pin=H?-1
+Removed Pin From Net: NetName=NetD3_1 Pin=H?-2
+Removed Pin From Net: NetName=V Pin=H?-2
+Removed Pin From Net: NetName=W Pin=H?-3
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=H1
+Change Component Footprint: Designator=H? Old Footprint=CONN-TH_MR30-M New Footprint=CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB
+Change Component Footprint: Designator=H? Old Footprint=HDR1X2 New Footprint=CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB
+Change Component Comment : Designator=H? Old Comment=1×2P-2.0插针 New Comment=GH1.25-2P 立贴
+Change Component Comment : Designator=H? Old Comment=MR30-M New Comment=GH1.25-2P 立贴
+Change component parameters: Designator = "H?" ("H?"); Footprint = "CONN-TH_MR30-M"; UniqueID = "\KQJXBPWN" ("\KQJXBPWN")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220527/44F824AAC8C2B617205E15955FF9C23D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1x2P 间距:1.25mm 立贴 系列:GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C3029368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H?" ("H?"); Footprint = "HDR1X2"; UniqueID = "\KFOOWAAY" ("\KFOOWAAY")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220527/44F824AAC8C2B617205E15955FF9C23D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1x2P 间距:1.25mm 立贴 系列:GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C3029368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Added Component: Designator=CN??(CONN-TH_XT30U-M-PCB)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "艾迈斯"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "黄色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716542582.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)轻量版锂电池插头公头 XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XT30U-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=U??(CONN-TH_MR30-M-PCB)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Belt length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Brand"; Value = "艾迈斯"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FlameRetardantGrade"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InsulationMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InterfaceType"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MetalMaterial"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NumberOfUSBHoles"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedCurrent"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RatedVoltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecommendedWireGauge"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "specifications"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "航空插头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type1"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=0V Pin=CN??-2
+Added Pin To Net: NetName=24V Pin=H?-1
+Added Pin To Net: NetName=DI_RET Pin=H?-1
+Added Pin To Net: NetName=0V Pin=H?-2
+Added Pin To Net: NetName=NetD3_1 Pin=H?-2
+Added Pin To Net: NetName=0V Pin=H?-3
+Added Pin To Net: NetName=0V Pin=H?-3
+Added Pin To Net: NetName=0V Pin=H?-4
+Added Pin To Net: NetName=0V Pin=H?-4
+Added Pin To Net: NetName=U Pin=U??-1
+Added Pin To Net: NetName=V Pin=U??-2
+Added Pin To Net: NetName=W Pin=U??-3
+Added Pin To Net: NetName=NetCN??_1 Pin=CN??-1
+Added Pin To Net: NetName=NetCN??_1 Pin=F1-1
+Added Net: Name=NetCN??_1
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component CN?? XT30U-M
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H? GH1.25-2P 立贴
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component U?? MR30-M

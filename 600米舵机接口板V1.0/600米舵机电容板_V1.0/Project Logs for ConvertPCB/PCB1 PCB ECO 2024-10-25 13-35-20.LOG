@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=H4 Old Footprint=KF301-5.0-2P New Footprint=VH3.96-2A
+Change Component Comment : Designator=H4 Old Comment=KF301-2P New Comment=VH2
+Added Member To Class: ClassName=Sheet1 Member=Component H1 XT30U-M

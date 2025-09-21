@@ -1,0 +1,30 @@
+Add Component: Footprint Not Found CAP-TH_BD10.0-P5.00-D1.0-FD
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found c1210
+Add Component: Footprint Not Found SMAF_L3.5-W2.6-LS4.7-FD
+Add Component: Footprint Not Found Fe-HDR1X2/2.54-S
+Add Component: Footprint Not Found Fe-HDR1X2/2.54-S
+Add Component: Footprint Not Found Fe-HDR1X2/2.54-S
+Add Component: Footprint Not Found HDR-TH_40P-P2.00-V-F-R2-C20-S2.00
+Add Component: Footprint Not Found RELAY-SMD_HF_HFD3XXX-SR
+Added Net: Name=24V0
+Added Net: Name=24V+
+Added Net: Name=DC+
+Added Net: Name=DC-
+Added Net: Name=DO2
+Added Net: Name=NetH2_1
+Added Net: Name=NetH?_1
+Added Net: Name=NetH?_2
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

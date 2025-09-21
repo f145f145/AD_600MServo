@@ -1,0 +1,19 @@
+Net Status Report
+Filename     : E:\00_元邦工作\09-ISMC驱动器测试\ISMC_Convert\ConvertPCB\插针款转接板.PcbDoc
+Date         : 2024/10/28
+Time         : 8:56:31
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    24V+, Signal Layers Only, 0mm
+    24V0, Signal Layers Only, 0mm
+    CANH, Signal Layers Only, 10.5629mm
+    CANL, Signal Layers Only, 7.2918mm
+    DC+, Signal Layers Only, 0mm
+    DC-, Signal Layers Only, 0mm
+    DO2, Signal Layers Only, 14.7232mm
+    NetH4_1, Signal Layers Only, 11.7727mm
+    U, Signal Layers Only, 0mm
+    V, Signal Layers Only, 0mm
+    W, Signal Layers Only, 0mm
+count : 11

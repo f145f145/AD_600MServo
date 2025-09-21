@@ -1,0 +1,7 @@
+Change Component Comment : Designator=H4 Old Comment=PH2.0-2P插 New Comment=PH 2P
+Added Pin To Net: NetName=0V Pin=H3-3
+Added Pin To Net: NetName=0V Pin=H3-4
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H4 PH 2P
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H5 GH1.25-2P立贴
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H6 GH1.25-3P立贴
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H7 SM08B-SURS-TF(LF)(SN)

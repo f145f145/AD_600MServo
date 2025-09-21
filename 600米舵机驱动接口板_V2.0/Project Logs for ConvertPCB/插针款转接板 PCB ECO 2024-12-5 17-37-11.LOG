@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=0V Pin=H3-1
+Removed Pin From Net: NetName=DI_RET Pin=H3-2
+Removed Pin From Net: NetName=0V Pin=H3-3
+Removed Pin From Net: NetName=0V Pin=H3-4
+Change Component DesignItemId : Designator=H3 Old DesignItemId=WAFER-GH1.25-2PLB New DesignItemId=PH 2P
+Change Component DesignItemId : Designator=H4 Old DesignItemId=XH2 New DesignItemId=WAFER-GH1.25-2PLB
+Change Component Footprint: Designator=H3 Old Footprint=CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB New Footprint=CONN-TH_B2B-PH-K-S
+Change Component Footprint: Designator=H4 Old Footprint=CONN-TH_B2B-PH-K-S New Footprint=CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB
+Change Component Comment : Designator=H3 Old Comment=WAFER-GH1.25-2PLB New Comment=PH 2P
+Change Component Comment : Designator=H4 Old Comment=XH2 New Comment=WAFER-GH1.25-2PLB
+Change Component Description : Designator=H3 Old Description= New Description=端子
+Change Component Description : Designator=H4 Old Description=XH2Pin插座 New Description=
+Change component parameters: Designator = "H3" ("H3"); Footprint = "CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB"; UniqueID = "\QATEZSSV" ("\QATEZSSV")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171026/C131337_15089839672461058811.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "PH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C131337"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "CONN-TH_B2B-PH-K-S"; UniqueID = "\GWPPWDKW" ("\GWPPWDKW")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220527/44F824AAC8C2B617205E15955FF9C23D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1x2P 间距:1.25mm 立贴 系列:GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "GH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C3029368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DI_RET Pin=H3-1
+Added Pin To Net: NetName=0V Pin=H3-2
+Added Pin To Net: NetName=0V Pin=H4-3
+Added Pin To Net: NetName=0V Pin=H4-4

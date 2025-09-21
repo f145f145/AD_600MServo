@@ -1,0 +1,48 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=0V Pin=H?-3
+Removed Pin From Net: NetName=0V Pin=H?-4
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=H8
+Removed Member From Class: ClassName=600米舵机驱动接口板v1.0 Member=H?
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=CN?? NewDesignator=H1
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H7
+Change Component Designator: OldDesignator=H6 NewDesignator=H9
+Change Component Designator: OldDesignator=H7 NewDesignator=H10
+Change Component Designator: OldDesignator=H8 NewDesignator=H6
+Change Component Designator: OldDesignator=H? NewDesignator=H3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U?? NewDesignator=H2
+Added Component: Designator=H4(CONN-TH_B2B-PH-K-S)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171026/C131337_15089839672461058811.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C131337"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DI_RET Pin=H4-1
+Added Pin To Net: NetName=0V Pin=H4-2
+Change Net Name : Old Net Name=NetCN??_1 New Net Name=NetF1_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR1_2
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H3 GH1.25-2P 立贴
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H9 1×6插针 2.54
+Added Member To Class: ClassName=600米舵机驱动接口板v1.0 Member=Component H10 1×6插针 2.54

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=0V Pin=C121-1
+Removed Pin From Net: NetName=48V Pin=C121-2
+Removed Pin From Net: NetName=48V Pin=D1-2
+Removed Pin From Net: NetName=48V Pin=H1-1
+Removed Member From Class: ClassName=Sheet1 Member=C121
+Change Component Footprint: Designator=D1 Old Footprint=SMA_L4.3-W2.6-LS5.2-RD New Footprint=TO-227B-SMD_L6.1-W4.3-LS7.0-RD
+Change Component Comment : Designator=D1 Old Comment=SS210 New Comment=SD10U100SL
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMA_L4.3-W2.6-LS5.2-RD"; UniqueID = "\GFBCUETM" ("\GFBCUETM")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211009/BD93C46FB22A14806A56CC8AAFB52095.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "SD10U100SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Configuration"; Value = "独立式"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage (Vf@If)"; Value = "570mV@10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "电压:100V 电流:10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "LGE(鲁光)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "SD10U100SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rectified Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Leakage Current (Ir)"; Value = "200uA@100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage (Vr)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "TO-277"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2903879"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "SD10U100SL"; VariantName = "[No Variations]"
+Added Component: Designator=H6(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H7(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=48V Pin=C1-2
+Added Pin To Net: NetName=48V Pin=D1-3
+Added Pin To Net: NetName=48V Pin=H6-1
+Added Pin To Net: NetName=48V Pin=H6-2
+Added Pin To Net: NetName=48V Pin=H6-3
+Added Pin To Net: NetName=48V Pin=H6-4
+Added Pin To Net: NetName=48V Pin=H6-5
+Added Pin To Net: NetName=0V Pin=H7-1
+Added Pin To Net: NetName=0V Pin=H7-2
+Added Pin To Net: NetName=0V Pin=H7-3
+Added Pin To Net: NetName=0V Pin=H7-4
+Added Pin To Net: NetName=0V Pin=H7-5
+Added Pin To Net: NetName=48V Pin=U1-3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=H1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet1 Member=Component H6 1×2.54
+Added Member To Class: ClassName=Sheet1 Member=Component H7 1×2.54

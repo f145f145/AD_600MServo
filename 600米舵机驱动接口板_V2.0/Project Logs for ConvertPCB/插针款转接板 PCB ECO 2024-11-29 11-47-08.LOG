@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=0V Pin=C4-1
+Removed Pin From Net: NetName=0V Pin=H5-9
+Removed Pin From Net: NetName=0V Pin=H5-10
+Added Pin To Net: NetName=Encoder_GND Pin=C4-1
+Added Pin To Net: NetName=Encoder_GND Pin=H5-9
+Added Pin To Net: NetName=Encoder_GND Pin=H5-10
+Added Rule: Name=Schematic Supply Nets

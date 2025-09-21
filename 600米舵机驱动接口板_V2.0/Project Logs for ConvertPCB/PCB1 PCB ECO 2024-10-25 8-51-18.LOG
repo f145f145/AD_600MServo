@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=H1 Old Footprint=Fe-HDR1X2/2.54-S New Footprint=VH3.96-2A
+Change Component Footprint: Designator=H3 Old Footprint=Fe-HDR1X2/2.54-S New Footprint=XH2/2.54mm/90
+Change Component Comment : Designator=H1 Old Comment=24V ‰»Î New Comment=VH2
+Change Component Comment : Designator=H3 Old Comment=CAN New Comment=XH2

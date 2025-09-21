@@ -1,0 +1,114 @@
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Change Component Designator: OldDesignator=H5 NewDesignator=H4
+Added Component: Designator=C1(0805_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_29074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C28323"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2131.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C1779"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805_C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_29074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C28323"; VariantName = "[No Variations]"
+Added Component: Designator=H3(CONN-TH_2P-P1.25_XUNPU_WAFER-GH1.25-2PLB)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220527/44F824AAC8C2B617205E15955FF9C23D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x2P 间距:1.25mm 立贴 系列:GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C3029368"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WAFER-GH1.25-2PLB"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18529.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17841"; VariantName = "[No Variations]"
+Added Component: Designator=R2(2010_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18529.html"; VariantName = "[No Variations]"
+Added Component: Designator=U??(TO-263-3L_L10.0-W9.2-P2.54-TL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/cn/lit/gpn/tl783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TL783CKTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Feature"; Value = "防静电保护；短路保护；热保护(TSD)；过流保护(OCP)；带使能"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "700mA、125V 可调节线性稳压器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TL783CKTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Input Voltage"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "700mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Polarity"; Value = "正极"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "1.25V~125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "76dB@(120Hz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C139375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TL783CKTTR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DC- Pin=C1-1
+Added Pin To Net: NetName=DC- Pin=C2-1
+Added Pin To Net: NetName=DC- Pin=C3-1
+Added Pin To Net: NetName=DC- Pin=H3-1
+Added Pin To Net: NetName=DC- Pin=H3-3
+Added Pin To Net: NetName=DC- Pin=H3-4
+Added Pin To Net: NetName=DC- Pin=R2-1
+Change Net Name : Old Net Name=DC+ New Net Name=48V
+Change Net Name : Old Net Name=DC- New Net Name=0V
+Added Pin To Net: NetName=24V Pin=C2-2
+Added Pin To Net: NetName=24V Pin=C3-2
+Added Pin To Net: NetName=24V Pin=J6-11
+Added Pin To Net: NetName=24V Pin=R1-2
+Added Pin To Net: NetName=24V Pin=U??-2
+Added Pin To Net: NetName=24V Pin=U??-4
+Added Net: Name=24V
+Added Pin To Net: NetName=DC+ Pin=C1-2
+Added Pin To Net: NetName=DC+ Pin=U??-3
+Added Net: Name=DC+
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=NetH3_2 Pin=J6-14
+Added Net: Name=NetH3_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U??-1
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1uF  100V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 4.7uF  50V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 0.1uF  100V
+Added Member To Class: ClassName=Sheet1 Member=Component H3 WAFER-GH1.25-2PLB
+Added Member To Class: ClassName=Sheet1 Member=Component R1 82Ω  0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1.5kΩ  1%
+Added Member To Class: ClassName=Sheet1 Member=Component U?? TL783CKTTR
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_8
